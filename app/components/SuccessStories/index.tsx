@@ -22,8 +22,8 @@ function SuccessStories() {
             </div>
           </div>
           <p className="text-sm">
-            "Ikizamini helped me pass my driving test on the first attempt. The
-            practice tests were incredibly helpful."
+            &ldquo;Ikizamini helped me pass my driving test on the first
+            attempt. The practice tests were incredibly helpful.&ldquo;
           </p>
         </div>
         <div className="bg-[#E5E7EB] px-6 py-8 rounded-md bg-opacity-40 flex flex-col gap-4">
@@ -40,8 +40,8 @@ function SuccessStories() {
             </div>
           </div>
           <p className="text-sm">
-            "The study materials are comprehensive and easy to understand. I
-            scored 100% on my theory test!"
+            &ldquo;The study materials are comprehensive and easy to understand.
+            I scored 100% on my theory test!&ldquo;
           </p>
         </div>
         <div className="bg-[#E5E7EB] px-6 py-8 rounded-md bg-opacity-40 flex flex-col gap-4">
@@ -58,8 +58,8 @@ function SuccessStories() {
             </div>
           </div>
           <p className="text-sm">
-            "The platform built my confidence through regular practice. Highly
-            recommended!"
+            &ldquo;The platform built my confidence through regular practice.
+            Highly recommended!&ldquo;
           </p>
         </div>
       </div>
